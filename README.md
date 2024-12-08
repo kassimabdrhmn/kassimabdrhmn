@@ -3,7 +3,7 @@
 
 ## Objective
 
-I am an ethical hacker and recent Software Engineering graduate eager to start my career in cybersecurity. With a strong focus on red teaming, ethical hacking, and penetration testing, I am passionate about solving complex problems, identifying vulnerabilities, and helping organizations strengthen their defenses against cyber threats. After completing extensive training and certifications, I am ready to apply my skills in real-world environments and contribute to the cybersecurity field.
+I am an ethical hacker and recent software engineering graduate eager to start my career in cybersecurity. With a strong focus on red teaming, ethical hacking, and penetration testing, I am passionate about solving complex problems, identifying vulnerabilities, and helping organizations strengthen their defenses against cyber threats. After completing extensive training and certifications, I am ready to apply my skills in real-world environments and contribute to the cybersecurity field.
 
 ## Projects
 
