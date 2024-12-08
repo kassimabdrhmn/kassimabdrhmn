@@ -7,15 +7,16 @@ I am an ethical hacker and recent Software Engineering graduate eager to start m
 
 ## Projects
 
-- [Wireshark HTTP Traffic Analysis](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Wireshark%20HTTP%20Traffic%20Analysis)
-- [Honeypot Testing Using VMs](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Honeypot%20Deployment%20and%20Analysis)
-- [Threat Intelligence Feed System Integration with Microsoft Sentinel](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/SIEM%20Implementation%20and%20Log%20Monitoring)
-- [Malware Dissection in a Virtual Machine](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Malware%20Analysis%20in%20Isolated%20Environment)
-- [Home Network in Cisco Packet Tracer](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Home%20Network%20Simulation)
-- [External Network Penetration Test](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/External%20Network%20Penetration%20Test)
-- [Phishing Campaign Simulation](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Phishing%20Campaign%20Simulation)
-- [Red Team vs. Blue Team Capture the Flag (CTF)](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Red%20Team%20vs.%20Blue%20Team%20Capture%20the%20Flag%20(CTF)%20Simulation)
-- [Web Application Penetration Test](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Web%20Application%20Penetration%20Test)
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Wireshark%20HTTP%20Traffic%20Analysis" style="color: #ff0000;">Wireshark HTTP Traffic Analysis</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Honeypot%20Deployment%20and%20Analysis" style="color: #ff0000;">Honeypot Testing Using VMs</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/SIEM%20Implementation%20and%20Log%20Monitoring" style="color: #ff0000;">Threat Intelligence Feed System Integration with Microsoft Sentinel</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Malware%20Analysis%20in%20Isolated%20Environment" style="color: #ff0000;">Malware Dissection in a Virtual Machine</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Home%20Network%20Simulation" style="color: #ff0000;">Home Network in Cisco Packet Tracer</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/External%20Network%20Penetration%20Test" style="color: #ff0000;">External Network Penetration Test</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Phishing%20Campaign%20Simulation" style="color: #ff0000;">Phishing Campaign Simulation</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Red%20Team%20vs.%20Blue%20Team%20Capture%20the%20Flag%20(CTF)%20Simulation" style="color: #ff0000;">Red Team vs. Blue Team Capture the Flag (CTF)</a>
+- <a href="https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Web%20Application%20Penetration%20Test" style="color: #ff0000;">Web Application Penetration Test</a>
+
   
 ## Certifications
 - Google Cyber Security Certificate
