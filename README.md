@@ -18,13 +18,13 @@ I am an ethical hacker and recent software engineering graduate eager to start m
 - [Web Application Penetration Test](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Web%20Application%20Penetration%20Test)
   
 ## Certifications
-- Cisco Certified Network Associate (CCNA) Certificate
-- AWS Cloud Practitioner Certificate
 - Certified Professional Penetration Tester (eCCPT) Certificate
+- Cisco Certified Network Associate (CCNA) Certificate
 - CompTIA Security+ Certificate
+- AWS Cloud Practitioner Certificate
+- Google Cyber Security Certificate
 - Linux LPI Certificate
 - CompTIA A+ Certificate
-- Google Cyber Security Certificate
 - Some SQL and some Python and some Bash
 - Practical Network Penetration Tester (PNPT) Certificate
 - TryHackMe Intro to Cyber Security, SOC Level 1 and 2, Cyber Defense, Pre Security, Jr Penetration Testing, Offensive Pentesting, and Red Teaming Certificates
