@@ -15,6 +15,7 @@ I am an ethical hacker and recent software engineering graduate eager to start m
 - [External Network Penetration Test](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/External%20Network%20Penetration%20Test)
 - [Red Team vs. Blue Team Capture the Flag (CTF)](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Red%20Team%20vs.%20Blue%20Team%20Capture%20the%20Flag%20(CTF)%20Simulation)
 - [Web Application Penetration Test](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Web%20Application%20Penetration%20Test)
+- [Phishing Campaign Simulation](https://github.com/kassimabdrhmn/kassimabdrhmn.github.io/tree/main/Phishing%20Campaign%20Simulation)
   
 ## Certifications
 - Certified Professional Penetration Tester (eCCPT) Certificate
